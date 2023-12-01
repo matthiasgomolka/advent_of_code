@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Matthias Gomolka", email = "matthias.gomolka@posteo.de"},
+]
+dependencies = [
+    "ipykernel>=6.27.1",
+    "regex>=2023.10.3",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
